@@ -17,3 +17,8 @@ This project presents a physically based rendering (PBR) study developed in Unre
 - Anti-aliasing configured in Movie Render Queue
 
 The final result is a cinematic render showcasing realistic material response and lighting behavior according to PBR principles.
+
+## Author
+Alfredo Carta  
+Computer Graphics Final Exam  
+Roma Tre University
