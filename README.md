@@ -18,6 +18,17 @@ This project presents a physically based rendering (PBR) study developed in Unre
 
 The final result is a cinematic render showcasing realistic material response and lighting behavior according to PBR principles.
 
+## Screenshots
+
+### Close-up Material Detail
+![Close Up](render_closeup.png)
+
+### Mid Composition
+![Mid Shot](render_midshot.png)
+
+### Full Scene Composition
+![Wide Shot](render_wide.png)
+
 ## Author
 Alfredo Carta  
 Computer Graphics Final Exam  
